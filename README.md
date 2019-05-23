@@ -1,2 +1,2 @@
 # getBooks
-this project can get books from www.17k.com
+this demo can download books from www.17k.com
